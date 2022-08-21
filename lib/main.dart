@@ -106,6 +106,7 @@ class _QuizPageState extends State<QuizPage> {
               color: Colors.green,
               child: Text(
                 'True',
+
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 20.0,
